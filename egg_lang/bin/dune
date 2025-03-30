@@ -1,0 +1,4 @@
+(executable
+ (public_name egg_lang)
+ (name main)
+ (libraries egg_lang))
